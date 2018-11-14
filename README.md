@@ -13,6 +13,6 @@ A list of database-related papers
  * Azza Abouzied, Daniel J. Abadi, Avi Silberschatz. [Invisible Loading: Access-Driven Data Transfer from Raw Files into Database Systems](https://openproceedings.org/2013/conf/edbt/AbouziedAS13.pdf), EDBT/ICDT, 2013
 ### Parsing
  * Yinan Li, Nikos R. Katsipoulakis, Badrish Chandramouli, Jonathan Goldstein, Donald Kossmann. [Mison: A Fast JSON Parser for Data Analytics](http://www.vldb.org/pvldb/vol10/p1118-li.pdf), PVLDB, 2017
- * Shoumik Palkar, Firas Abuzaid, Peter Bailis, Matei Zaharia. [Filter Before You Parse:Faster Analytics on Raw Data with Sparser](https://www.vldb.org/pvldb/vol11/p1576-palkar.pdf), PVLDB, 2018
+ * Shoumik Palkar, Firas Abuzaid, Peter Bailis, Matei Zaharia. [Filter Before You Parse:Faster Analytics on Raw Data with Sparser](https://www.vldb.org/pvldb/vol11/p1576-palkar.pdf)([slides](https://www.slideshare.net/databricks/sparser-faster-parsing-of-unstructured-data-formats-in-apache-spark-with-firas-abuzaid-and-shoumik-palkar?from_action=save),[DAWN-Sparser](https://dawn.cs.stanford.edu/2018/08/07/sparser/)), PVLDB, 2018
  
 
