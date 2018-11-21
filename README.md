@@ -2,6 +2,7 @@
 A list of database-related papers
 ## Table of Contents
 1. [Data loading](#data-loading)
+2. [SQL on Hadoop](#sql-on-hadoop)
 
 ## <a name="data-loading"> Data loading
  * Tobias Mühlbauer, Wolf Rödiger, Robert Seilbeck, Angelika Reiser, Alfons Kemper, Thomas Neumann. [Instant Loading for Main Memory Databases](http://www.vldb.org/pvldb/vol6/p1702-muehlbauer.pdf), VLDB, 2013
@@ -14,5 +15,12 @@ A list of database-related papers
 ### Parsing
  * Yinan Li, Nikos R. Katsipoulakis, Badrish Chandramouli, Jonathan Goldstein, Donald Kossmann. [Mison: A Fast JSON Parser for Data Analytics](http://www.vldb.org/pvldb/vol10/p1118-li.pdf), PVLDB, 2017
  * Shoumik Palkar, Firas Abuzaid, Peter Bailis, Matei Zaharia. [Filter Before You Parse:Faster Analytics on Raw Data with Sparser](https://www.vldb.org/pvldb/vol11/p1576-palkar.pdf)([slides](https://www.slideshare.net/databricks/sparser-faster-parsing-of-unstructured-data-formats-in-apache-spark-with-firas-abuzaid-and-shoumik-palkar?from_action=save),[DAWN-Sparser](https://dawn.cs.stanford.edu/2018/08/07/sparser/)), PVLDB, 2018
+ 
+## <a name="sql-on-hadoop"> SQL on Hadoop
+ * Ashish Thusoo, Joydeep Sen Sarma, Namit Jain, Zheng Shao, Prasad Chakka, Ning Zhang, Suresh Anthony, Hao Liu, Raghotham Murthy. [Hive - a petabyte scale data warehouse using Hadoop](papers/2010-Hive.pdf)([slides](slides/Hive-Raghotham%20Murthy.pdf)), ICDE, 2010
+ * Reynold S. Xin, Josh Rosen, Matei Zaharia, Michael J. Franklin, Scott Shenker, Ion Stoica. [Shark: SQL and rich analytics at scale](papers/2013-Shark.pdf), SIGMOD, 2013
+ * Michael Armbrust, Reynold S. Xin, Cheng Lian, Yin Huai, Davies Liu, Joseph K. Bradley, Xiangrui Meng, Tomer Kaftan, Michael J. Franklin, Ali Ghodsi, Matei Zaharia. [Spark SQL: Relational Data Processing in Spark](papers/2015-Spark%20SQL.pdf), SIGMOD, 2015
+
+
  
 
