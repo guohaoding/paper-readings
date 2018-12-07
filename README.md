@@ -3,6 +3,8 @@ A list of database-related papers
 ## Table of Contents
 1. [Data loading](#data-loading)
 2. [SQL on Hadoop](#sql-on-hadoop)
+3. [Batch processing](#batch-porcessing)
+4. [Stream processing](#stream-processing)
 
 ## <a name="data-loading"> Data loading
  * Tobias Mühlbauer, Wolf Rödiger, Robert Seilbeck, Angelika Reiser, Alfons Kemper, Thomas Neumann. [Instant Loading for Main Memory Databases](http://www.vldb.org/pvldb/vol6/p1702-muehlbauer.pdf), VLDB, 2013
@@ -20,6 +22,18 @@ A list of database-related papers
  * Ashish Thusoo, Joydeep Sen Sarma, Namit Jain, Zheng Shao, Prasad Chakka, Ning Zhang, Suresh Anthony, Hao Liu, Raghotham Murthy. [Hive - a petabyte scale data warehouse using Hadoop](papers/2010-Hive.pdf)([slides](slides/Hive-Raghotham%20Murthy.pdf)), ICDE, 2010
  * Reynold S. Xin, Josh Rosen, Matei Zaharia, Michael J. Franklin, Scott Shenker, Ion Stoica. [Shark: SQL and rich analytics at scale](papers/2013-Shark.pdf), SIGMOD, 2013
  * Michael Armbrust, Reynold S. Xin, Cheng Lian, Yin Huai, Davies Liu, Joseph K. Bradley, Xiangrui Meng, Tomer Kaftan, Michael J. Franklin, Ali Ghodsi, Matei Zaharia. [Spark SQL: Relational Data Processing in Spark](papers/2015-Spark%20SQL.pdf), SIGMOD, 2015
+
+## <a name="batch-processing"> Batch processing
+ * Jeffrey Dean and Sanjay Ghemawat. [MapReduce:Simplified Data Processing on Large Clusters](papers/2004-MapReduce.pdf)([slides](slides/MapReduce-Jeff%20Dean.ppt)), OSDI, 2004
+ * Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, Ion Stoica. [Spark:Cluster Computing withWorking Sets](papers/2010-Spark.pdf)([slides](slides/Spark-Zaharia.pdf)), HotCloud, 2010
+ * Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma, Murphy McCauley, Michael J. Franklin, Scott Shenker, Ion Stoica. [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](papers/2012-RDD.pdf)([slides](slides/RDD-zaharia.pdf)), NSDI, 2012
+ 
+## <a name="stream-processing"> Stream processing
+ * Ankit Toshniwal, Siddarth Taneja, Amit Shukla, Karthik Ramasamy, Jignesh M. Patel*, Sanjeev Kulkarni, Jason Jackson, Krishna Gade, Maosong Fu, Jake Donham, Nikunj Bhagat, Sailesh Mittal, Dmitriy Ryaboy. [Storm @Twitter](papers/2014-Storm.pdf)([slides](slides/Storm-Karthik%20Ramasamy.pdf)), SIGMOD, 2014
+ * Matei Zaharia, Tathagata Das, Haoyuan Li, Scott Shenker, Ion Stoica. [Discretized Streams: An Efficient and Fault-Tolerant Model for
+Stream Processing on Large Clusters](papers/2012-Spark%20Streaming.pdf)([slides](slides/Spark%20Streaming-Zaharia.pdf)), HotCloud, 2012
+ * Matei Zaharia, Tathagata Das, Haoyuan Li, Timothy Hunter, Scott Shenker, Ion Stoica. [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](papers/2013-Spark%20Streaming.pdf)([slides](slides/Spark%20Streaming-Tathagata%20Das(SOSP).pptx)), SOSP, 2013
+ * Paris Carbone, Asterios Katsifodimos, Stephan Ewen, Volker Markl, Seif Haridi, Kostas Tzoumas. [Apache Flink:Stream and Batch Processing in a Single Engine](papers/2015-Flink.pdf)([slides](slides/Flink-Paris%20Carbone.pdf)), 2015
 
 
  
