@@ -3,7 +3,7 @@ A list of database-related papers
 ## Table of Contents
 1. [Data loading](#data-loading)
 2. [SQL on Hadoop](#sql-on-hadoop)
-3. [Batch processing](#batch-porcessing)
+3. [Batch processing](#batch-processing)
 4. [Stream processing](#stream-processing)
 
 ## <a name="data-loading"> Data loading
