@@ -5,6 +5,7 @@ A list of database-related papers
 2. [SQL on Hadoop](#sql-on-hadoop)
 3. [Batch processing](#batch-processing)
 4. [Stream processing](#stream-processing)
+5. [Coordination](#coordination)
 
 ## <a name="data-loading"> Data loading
  * Tobias Mühlbauer, Wolf Rödiger, Robert Seilbeck, Angelika Reiser, Alfons Kemper, Thomas Neumann. [Instant Loading for Main Memory Databases](http://www.vldb.org/pvldb/vol6/p1702-muehlbauer.pdf), VLDB, 2013
@@ -34,6 +35,10 @@ A list of database-related papers
 Stream Processing on Large Clusters](papers/2012-Spark%20Streaming.pdf)([slides](slides/Spark%20Streaming-Zaharia.pdf)), HotCloud, 2012
  * Matei Zaharia, Tathagata Das, Haoyuan Li, Timothy Hunter, Scott Shenker, Ion Stoica. [Discretized Streams: Fault-Tolerant Streaming Computation at Scale](papers/2013-Spark%20Streaming.pdf)([slides](slides/Spark%20Streaming-Tathagata%20Das(SOSP).pptx)), SOSP, 2013
  * Paris Carbone, Asterios Katsifodimos, Stephan Ewen, Volker Markl, Seif Haridi, Kostas Tzoumas. [Apache Flink:Stream and Batch Processing in a Single Engine](papers/2015-Flink.pdf)([slides](slides/Flink-Paris%20Carbone.pdf)), 2015
+ 
+## <a name="coordination"> Coordination
+ * Mike Burrows. [The Chubby lock service for loosely-coupled distributed systems](papers/2006-Chubby.pdf), OSDI, 2006
+ * Patrick Hunt, Mahadev Konar, Flavio Paiva Junqueira, Benjamin Reed. [ZooKeeper: Wait-free coordination for Internet-scale systems](papers/2010-Zookeeper.pdf)([slides](slides/Zookeeper-Benjamin%20Reed.pdf)), USENIX ATC, 2010
 
 
  
