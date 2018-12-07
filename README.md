@@ -26,7 +26,7 @@ A list of database-related papers
 
 ## <a name="batch-processing"> Batch processing
  * Jeffrey Dean and Sanjay Ghemawat. [MapReduce:Simplified Data Processing on Large Clusters](papers/2004-MapReduce.pdf)([slides](slides/MapReduce-Jeff%20Dean.ppt)), OSDI, 2004
- * Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, Ion Stoica. [Spark:Cluster Computing withWorking Sets](papers/2010-Spark.pdf)([slides](slides/Spark-Zaharia.pdf)), HotCloud, 2010
+ * Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, Ion Stoica. [Spark:Cluster Computing with Working Sets](papers/2010-Spark.pdf)([slides](slides/Spark-Zaharia.pdf)), HotCloud, 2010
  * Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma, Murphy McCauley, Michael J. Franklin, Scott Shenker, Ion Stoica. [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](papers/2012-RDD.pdf)([slides](slides/RDD-zaharia.pdf)), NSDI, 2012
  
 ## <a name="stream-processing"> Stream processing
