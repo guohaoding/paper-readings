@@ -21,6 +21,7 @@ A list of database-related papers
 
 ## <a name="sql-on-hadoop"> SQL on Hadoop
  * Ashish Thusoo, Joydeep Sen Sarma, Namit Jain, Zheng Shao, Prasad Chakka, Ning Zhang, Suresh Anthony, Hao Liu, Raghotham Murthy. [Hive - a petabyte scale data warehouse using Hadoop](papers/2010-Hive.pdf)([slides](slides/Hive-Raghotham%20Murthy.pdf)), ICDE, 2010
+ * 	Jesús Camacho-Rodríguez, Ashutosh Chauhan, Alan Gates, Eugene Koifman, Owen O'Malley, Vineet Garg, Zoltan Haindrich, Sergey Shelukhin, Prasanth Jayachandran, Siddharth Seth, Deepak Jaiswal, Slim Bouguerra, Nishant Bangarwa, Sankar Hariappan, Anishek Agarwal, Jason Dere, Daniel Dai, Thejas Nair, Nita Dembla, Gopal Vijayaraghavan, Günther Hagleitner. [Apache Hive: From MapReduce to Enterprise-grade Big Data Warehousing](papers/2019-Hive.pdf)
  * Reynold S. Xin, Josh Rosen, Matei Zaharia, Michael J. Franklin, Scott Shenker, Ion Stoica. [Shark: SQL and rich analytics at scale](papers/2013-Shark.pdf), SIGMOD, 2013
  * Michael Armbrust, Reynold S. Xin, Cheng Lian, Yin Huai, Davies Liu, Joseph K. Bradley, Xiangrui Meng, Tomer Kaftan, Michael J. Franklin, Ali Ghodsi, Matei Zaharia. [Spark SQL: Relational Data Processing in Spark](papers/2015-Spark%20SQL.pdf), SIGMOD, 2015
 
